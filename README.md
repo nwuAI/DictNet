@@ -12,13 +12,13 @@ In this paper, we propose a new 3D face reconstruction problem with facial expre
   <img src="figures/framework.png" width="600" />
 </div>
 
-                               Expression Dictionary Generation Network
+                                          Expression Dictionary Generation Network
 
 <div align="center">
   <img src="figures/framework1.png" width="600" />
 </div>
 
-                          Emotion Region occluded 3D Face Reconstruction Network
+                                   Emotion Region occluded 3D Face Reconstruction Network
 
 
 ## Citation
