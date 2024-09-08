@@ -1,0 +1,25 @@
+#to install all this requirements
+#`pip install -r requirements.txt`
+numpy~=1.21.6
+scipy~=1.7.3
+chumpy
+scikit-image~=0.19.3
+opencv-python~=4.8.1.78
+scikit-image    #skimage
+PyYAML~=6.0
+torch~=1.12.0+cu116
+torchvision~=0.13.0+cu116
+face-alignment
+yacs~=0.1.8
+kornia~=0.6.12
+ninja
+fvcore
+# pytorch3d    
+imageio~=2.31.2
+timm~=0.9.10
+thop~=0.1.1.post2209072238
+Pillow~=9.5.0
+setuptools~=68.2.2
+loguru~=0.7.2
+tqdm~=4.66.1
+torchfile~=0.1.0
