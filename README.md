@@ -6,7 +6,7 @@ by Zhan Li, Chuan Peng, Yuning Wang, Han Zhang, Qinru Sun, Runtian Chen
 * We provide related codes and configuration files to reproduce the "Emotion region occluded 3D face reconstruction"
 
 ## Introduction
-In this paper, an innovative 3D face reconstruction approach is put forward to reconstruct a single image in which the emotional region is occluded, with the aim of restoring the expression information within the occluded region and attaining the natural consistency of the entire face expression. Based on the FLAME model, this approach constructs an expression dictionary by using unshielded face images bearing expression labels, predicts the expression of input images via the expression recognition network, and retrieves the corresponding FLAME expression parameters to optimize the reconstruction process.
+In this paper, we propose a new 3D face reconstruction problem with facial expression region occlusion. To address this issue, we constructed a specific dataset EmooFace and proposed a network DictNet. Compared with other methods, DictNet can fully utilize the facial expression parameters of the FLAME  model and construct an expression dictionary to achieve emotion region occluded 3D face reconstruction.
 
 <div align="center">
   <img src="figures/framework.png" width="600" />
