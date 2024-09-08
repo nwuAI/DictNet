@@ -20,6 +20,8 @@ In this paper, we propose a new 3D face reconstruction problem with facial expre
 
                                    Emotion Region occluded 3D Face Reconstruction Network
 
+## EmooFace Dataset
+The dataset and the pre-trained model can be download from https://pan.quark.cn/s/e771284235c1.
 
 ## Citation
 ```
